@@ -1,0 +1,18 @@
+.home{
+    background-color: rgb(71, 219, 150);
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.give{
+    width: 30%;
+    min-height: 20vh;
+}
+
+.get{
+    width: 30%;
+    min-height: 20vh;
+}
